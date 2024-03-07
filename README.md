@@ -16,7 +16,7 @@ Azure Services Used
 1.Azure Storage Service
 2.Azure Blob Service
 3.Azure Containers
-4.Azure static web
+4.Azure Static Web
 5.Azure Backup service
 Azure AI Service
 1.Language service
