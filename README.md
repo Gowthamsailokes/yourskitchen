@@ -19,7 +19,7 @@ Azure Services Used
 4.Azure Static Web
 5.Azure Backup service
 Azure AI Service
-1.Language service
+1.Language Service
 2.Azure Bot Service
 Problem Statement
 Yours kitchen has identified several challenges that are impacting its overall performance and customer satisfaction. These challenges necessitate a strategic and comprehensive approach to address key areas of concern.
