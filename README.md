@@ -38,7 +38,7 @@ Future Enhancements:
 Enhancing features in a restaurant can significantly improve customer satisfaction, operational efficiency, and overall competitiveness. These are leverage cutting-edge technologies to elevate the restaurant experience, differentiate the establishment from competitors, and meet the evolving expectations of tech-savvy customers. Implementation should be tailored to the restaurant's specific concept, target audience, and operational capabilities.
 Core Azure Services
 
-Storage service :
+Storage Service :
 The project utilizes storage service and it is  responsible for storing and managing data or resources. The role of storage services in a project can vary depending on the nature of the project.
 
 Blob service :
