@@ -27,7 +27,7 @@ Yours kitchen has identified several challenges that are impacting its overall p
 Project Description:
 The goal of this project is to enhance and modernize the overall dining experience at Yours Kitchen. By leveraging technology and implementing strategic improvements, we aim to create a seamless and enjoyable experience for both new and returning customers.
 
-Key Features :
+Key Features:
 Online ordering system
 Reservation management system
 Feedback and review system
