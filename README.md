@@ -5,13 +5,13 @@ Team Members:
 2.Bathula Ranjith Kumar
 3.Brijesh Kumar
 4.Dhanekula Suma
-Introduction: Welcome To Our Yourskitchen App’s Static Website, Powered By Azure Services.Our Platform  Yours Kitchen simplifies to order the Diet Food items.Visit our site to odrer the food. 
+Introduction: Welcome To Our Yourskitchen App’s Static Website, Powered By Azure Services.Our Platform  Yours Kitchen simplifies to order the Diet Food items.Visit our site to odrer the food. <br>
 
 Project Details:
 1.Project Demo URL: https://yourskitchenstorage1.z13.web.core.windows.net/
 2.Demo Video URL:https://youtu.be/fI8Ew4bev1g?si=j6qDWpZRK9h3K76Y
 3.Github Repository URL: https://github.com/Gowthamsailokes/yourskitchen
-4.Industry :Food Service
+4.Industry :Food Service<br>
 Azure services Used
 1.Azure Storage Service
 2.Azure Blob Service
