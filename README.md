@@ -51,7 +51,7 @@ Container services, such as those provided by Docker and managed container orche
  Azure Backup Service by Microsoft safeguards critical data in the Azure cloud. It offers automated and scalable backup solutions for virtual machines, applications, and files. With features like long-term retention and geo-redundancy, it ensures data resilience and facilitates efficient disaster recovery, enhancing overall data protection strategies.
 Azure AI Service
 
-Language service :
+Language Service :
 The service provides a range of features that enhance productivity, code quality, and collaboration. It plays a central role in creating a developer-friendly environment and facilitating efficient software development workflows.
 
 Azure Bot Service :
