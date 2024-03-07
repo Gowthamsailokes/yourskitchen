@@ -71,54 +71,55 @@ Proactive Alerts : Issues immediately alerts on deviations from set overall per
 Azure Application Insights :
 User Interaction Insights : Analyzes consumer behaviors, providing distinctive facts on trips and characteristic recognition.
 Diagnostics Precision : Traces requests comprehensively, facilitating quick identity and determination of issues at each frontend and backend degrees.
+
 Screenshots
 Storage Service:
 Description :
-Storage services encompass a range of solutions designed to store, organize, and manage data efficiently. These services can vary in terms of scalability, performance, accessibility, and features, catering to diverse requirements across industries. 
+Storage services encompass a range of solutions designed to store, organize, and manage data efficiently. These services can vary in terms of scalability, performance, accessibility, and features, catering to diverse requirements across industries.
+![image](https://github.com/Gowthamsailokes/yourskitchen/assets/159624618/f3225e72-3729-406b-ba73-294eb1650c29)
 
 Azure Static Website: 
 Azure Static Website is a hosting service in Microsoft Azure designed for deploying and serving static web content. With features like global content delivery, automatic scaling, and seamless integration with Azure Storage, it provides a reliable and cost-effective solution for hosting HTML, CSS, and JavaScript-based websites with minimal configuration.
-
+![image](https://github.com/Gowthamsailokes/yourskitchen/assets/159624618/289d6896-f726-43e6-944c-3b3db13f2878)
 
 Blob Service:
 Description :
 Blob service is a cloud-based storage service designed for the scalable storage of binary or text data, often in the form of files such as images, videos, documents, and backups. It providessimple and flexible way to store and retrieve large amounts of unstructured data in the cloud. 
+![image](https://github.com/Gowthamsailokes/yourskitchen/assets/159624618/f1a88e85-a098-45f2-96ac-fe73cbc35195)
 
 Azure Backup Service:
-Azure Backup Service in Microsoft Azure ensures data resilience with automated, scalable backup solutions. Supporting virtual machines, applications, and files, it offers features like long-term retention and geo-redundancy. This service enhances overall data protection, enabling efficient disaster recovery and secure backup management in the Azure cloud environment. 
+Azure Backup Service in Microsoft Azure ensures data resilience with automated, scalable backup solutions. Supporting virtual machines, applications, and files, it offers features like long-term retention and geo-redundancy. This service enhances overall data protection, enabling efficient disaster recovery and secure backup management in the Azure cloud environment.
+![image](https://github.com/Gowthamsailokes/yourskitchen/assets/159624618/49e54b15-5f15-4c5a-bc08-f0a2e41a70b2)
+
 
 Containers:
 Description :
 Containers are a lightweight and portable form of virtualization that encapsulates an application and its dependencies, including libraries, runtime, and system tools, into a single, executable package. This package is called a container image. Containers provide a consistent and reproducible environment, ensuring that the application runs consistently across different computing environments, whether it be a developer's laptop, a test environment, or a production server.
+![image](https://github.com/Gowthamsailokes/yourskitchen/assets/159624618/7cde2ec9-8563-4901-a578-2c69d570bd4f)
+
 
 Language Service:
 Description :
 
 Language service descriptions play a crucial role in providing a clear understanding of the capabilities, features, and use cases of language-related services offered by cloud platforms like Azure. It plays a pivotal role in guiding developers, architects, and decision-makers in selecting, integrating, and utilizing language-related services effectively within their applications and projects.
-
-
-
-
-
-
+![image](https://github.com/Gowthamsailokes/yourskitchen/assets/159624618/2baceadc-6620-4cc9-bf5c-0f0b1087ea6d)
+![image](https://github.com/Gowthamsailokes/yourskitchen/assets/159624618/5f65af28-1bea-4c01-8b6a-480d611f7859)
+![image](https://github.com/Gowthamsailokes/yourskitchen/assets/159624618/d3e5a4a3-b798-4e46-900c-89565805f686)
 
 
 Azure Chat Bot:
 The Azure AI Language ChatBot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.
-
-
-
+![image](https://github.com/Gowthamsailokes/yourskitchen/assets/159624618/00abd5c4-1c8e-416a-a82b-d99fd30fd82d)
+![image](https://github.com/Gowthamsailokes/yourskitchen/assets/159624618/42e2cd5f-568b-47f0-b03e-7c62c504fbd5)
 
 
 Working Live Project Display
 Description :
 Here I am attaching the final working website's screenshot for the reference.
-
-
-
-
-
-
+![image](https://github.com/Gowthamsailokes/yourskitchen/assets/159624618/39b794d8-ad96-484f-a3d3-c4522d9f4e86)
+![image](https://github.com/Gowthamsailokes/yourskitchen/assets/159624618/21a9e239-c62d-4175-ab40-5c77bbfd5bbc)
+![image](https://github.com/Gowthamsailokes/yourskitchen/assets/159624618/f033a1f0-688f-459a-8adf-3e8c80e729c6)
+![image](https://github.com/Gowthamsailokes/yourskitchen/assets/159624618/af02a859-6730-4d31-a6c7-93e5f9d0bd0f)
 
 
 Resource Visualizer
