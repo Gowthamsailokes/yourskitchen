@@ -24,7 +24,7 @@ Azure AI Service
 Problem Statement
 Yours kitchen has identified several challenges that are impacting its overall performance and customer satisfaction. These challenges necessitate a strategic and comprehensive approach to address key areas of concern.
 
-Project Description
+Project Description:
 The goal of this project is to enhance and modernize the overall dining experience at Yours Kitchen. By leveraging technology and implementing strategic improvements, we aim to create a seamless and enjoyable experience for both new and returning customers.
 
 Key Features :
@@ -34,7 +34,6 @@ Key Features :
 Table management system
 Wi-fi accessibility 
 Future Enhancements :
-
 Enhancing features in a restaurant can significantly improve customer satisfaction, operational efficiency, and overall competitiveness. These are leverage cutting-edge technologies to elevate the restaurant experience, differentiate the establishment from competitors, and meet the evolving expectations of tech-savvy customers. Implementation should be tailored to the restaurant's specific concept, target audience, and operational capabilities.
 Core Azure Services
 Storage service :
