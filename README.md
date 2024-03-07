@@ -1,5 +1,5 @@
 Yours Kitchen-Restaurant-Project
-Project Title: “Yours Kitchen App” is a web app by using azure services.
+Project Title: “Yours Kitchen App” is a web app by using Azure Services.
 Team Members:
 1.Kilani Gowtham Sai Lokesh
 2.Bathula Ranjith Kumar
