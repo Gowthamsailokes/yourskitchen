@@ -37,21 +37,24 @@ Key Features :
 Future Enhancements :
 Enhancing features in a restaurant can significantly improve customer satisfaction, operational efficiency, and overall competitiveness. These are leverage cutting-edge technologies to elevate the restaurant experience, differentiate the establishment from competitors, and meet the evolving expectations of tech-savvy customers. Implementation should be tailored to the restaurant's specific concept, target audience, and operational capabilities.
 Core Azure Services
+
 Storage service :
 The project utilizes storage service and it is  responsible for storing and managing data or resources. The role of storage services in a project can vary depending on the nature of the project.
+
 Blob service :
 It is a cloud-based object storage solution provided by Microsoft Azure. It plays a crucial role in various types of projects, serving as a scalable and cost-effective storage service for large amounts of unstructured data.
+
 Containers:
 Container services, such as those provided by Docker and managed container orchestration platforms like Kubernetes, play a pivotal role in modern software development projects.
+
  Azure Backup Service:
  Azure Backup Service by Microsoft safeguards critical data in the Azure cloud. It offers automated and scalable backup solutions for virtual machines, applications, and files. With features like long-term retention and geo-redundancy, it ensures data resilience and facilitates efficient disaster recovery, enhancing overall data protection strategies.
 Azure AI Service
-Language service :
 
+Language service :
 The service provides a range of features that enhance productivity, code quality, and collaboration. It plays a central role in creating a developer-friendly environment and facilitating efficient software development workflows.
 
 Azure Bot Service:
-
 Azure Bot Service is a cloud-based service provided by Microsoft Azure that enables the development, deployment, and management of intelligent bots. Bots are software applications designed to interact with users through natural language conversations.
 
  Other Azure Technologies / Services
@@ -59,6 +62,7 @@ In the Multilingual Content Hub, Azure Monitor and Azure Application Insights co
 Azure Monitor :
 Real-time Performance Metrics : Monitors vital overall performance indicators, ensuring the application runs seamlessly.
 Proactive Alerts : Issues immediately alerts on deviations from set overall performance thresholds, enabling fast responses to capability disruptions.
+
 Azure Application Insights :
 User Interaction Insights : Analyzes consumer behaviors, providing distinctive facts on trips and characteristic recognition.
 Diagnostics Precision : Traces requests comprehensively, facilitating quick identity and determination of issues at each frontend and backend degrees.
