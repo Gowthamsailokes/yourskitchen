@@ -34,7 +34,7 @@ Key Features :
 Table management system
 Wi-fi accessibility 
 
-Future Enhancements :
+Future Enhancements:
 Enhancing features in a restaurant can significantly improve customer satisfaction, operational efficiency, and overall competitiveness. These are leverage cutting-edge technologies to elevate the restaurant experience, differentiate the establishment from competitors, and meet the evolving expectations of tech-savvy customers. Implementation should be tailored to the restaurant's specific concept, target audience, and operational capabilities.
 Core Azure Services
 
