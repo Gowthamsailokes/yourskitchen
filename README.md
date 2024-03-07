@@ -5,7 +5,7 @@ Team Members:
 2.Bathula Ranjith Kumar
 3.Brijesh Kumar
 4.Dhanekula Suma
-Introduction: Welcome To Our Yourskitchen App’s Static Website, Powered By Azure Services.Our Platform  Yours Kitchen simplifies to order the Diet Food items. Visit our site to odrer the food. 
+Introduction: Welcome To Our Yourskitchen App’s Static Website, Powered By Azure Services.Our Platform  Yours Kitchen simplifies to order the Diet Food items.Visit our site to odrer the food. 
 
 Project Details:
 1.Project Demo URL: https://yourskitchenstorage1.z13.web.core.windows.net/
