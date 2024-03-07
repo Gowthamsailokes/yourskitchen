@@ -6,22 +6,27 @@ Team Members:
 3.Brijesh Kumar
 4.Dhanekula Suma
 Introduction: Welcome To Our Yourskitchen App’s Static Website, Powered By Azure Services.Our Platform  Yours Kitchen simplifies to order the Diet Food items.Visit our site to odrer the food. <br>
-
-Project Details:
-1.Project Demo URL: https://yourskitchenstorage1.z13.web.core.windows.net/
-2.Demo Video URL:https://youtu.be/fI8Ew4bev1g?si=j6qDWpZRK9h3K76Y
-3.Github Repository URL: https://github.com/Gowthamsailokes/yourskitchen
+<hr>
+Project Details:<br>
+1.Project Demo URL: https://yourskitchenstorage1.z13.web.core.windows.net/<br>
+2.Demo Video URL:https://youtu.be/fI8Ew4bev1g?si=j6qDWpZRK9h3K76Y<br>
+3.Github Repository URL: https://github.com/Gowthamsailokes/yourskitchen<br>
 4.Industry :Food Service<br>
-Azure services Used
-1.Azure Storage Service
-2.Azure Blob Service
-3.Azure Containers
-4.Azure Static Web
-5.Azure Backup Service
-Azure AI Service
-1.Language Service
-2.Azure Bot service
-Problem Statement
+<hr>
+Azure services Used<br>
+1.Azure Storage Service<br>
+2.Azure Blob Service<br>
+3.Azure Containers<br>
+4.Azure Static Web<br>
+5.Azure Backup Service<br>
+<hr>
+
+Azure AI Service<br>
+1.Language Service<br>
+2.Azure Bot service<br>
+<hr>
+
+Problem Statement<br>
 Yours kitchen has Identified several challenges that are impacting its overall performance and customer satisfaction. These challenges necessitate a strategic and comprehensive approach to address key areas of concern.
 
 Project Description:
