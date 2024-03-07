@@ -86,7 +86,7 @@ Containers:
 Description :
 Containers are a lightweight and portable form of virtualization that encapsulates an application and its dependencies, including libraries, runtime, and system tools, into a single, executable package. This package is called a container image. Containers provide a consistent and reproducible environment, ensuring that the application runs consistently across different computing environments, whether it be a developer's laptop, a test environment, or a production server.
 
-Language service:
+Language Service:
 Description :
 
 Language service descriptions play a crucial role in providing a clear understanding of the capabilities, features, and use cases of language-related services offered by cloud platforms like Azure. It plays a pivotal role in guiding developers, architects, and decision-makers in selecting, integrating, and utilizing language-related services effectively within their applications and projects.
