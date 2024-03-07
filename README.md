@@ -13,7 +13,7 @@ Project Details:
 3.Github Repository URL: https://github.com/Gowthamsailokes/yourskitchen
 4.Industry :Food Service
 Azure Services Used
-1.Azure Storage Service
+1.Azure storage service
 2.Azure Blob Service
 3.Azure Containers
 4.Azure Static Web
