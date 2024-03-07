@@ -13,7 +13,7 @@ Project Details:
 3.Github Repository URL: https://github.com/Gowthamsailokes/yourskitchen
 4.Industry :Food Service
 Azure services Used
-1.Azure storage service
+1.Azure Storage Service
 2.Azure Blob Service
 3.Azure Containers
 4.Azure Static Web
@@ -22,7 +22,7 @@ Azure AI Service
 1.Language Service
 2.Azure Bot Service
 Problem Statement
-Yours kitchen has identified several challenges that are impacting its overall performance and customer satisfaction. These challenges necessitate a strategic and comprehensive approach to address key areas of concern.
+Yours kitchen has Identified several challenges that are impacting its overall performance and customer satisfaction. These challenges necessitate a strategic and comprehensive approach to address key areas of concern.
 
 Project Description:
 The goal of this project is to enhance and modernize the overall dining experience at Yours Kitchen. By leveraging technology and implementing strategic improvements, we aim to create a seamless and enjoyable experience for both new and returning customers.
