@@ -54,7 +54,7 @@ Azure AI Service
 Language service :
 The service provides a range of features that enhance productivity, code quality, and collaboration. It plays a central role in creating a developer-friendly environment and facilitating efficient software development workflows.
 
-Azure Bot Service:
+Azure Bot Service :
 Azure Bot Service is a cloud-based service provided by Microsoft Azure that enables the development, deployment, and management of intelligent bots. Bots are software applications designed to interact with users through natural language conversations.
 
  Other Azure Technologies / Services
