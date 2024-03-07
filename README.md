@@ -72,7 +72,7 @@ Azure Static Website: 
 Azure Static Website is a hosting service in Microsoft Azure designed for deploying and serving static web content. With features like global content delivery, automatic scaling, and seamless integration with Azure Storage, it provides a reliable and cost-effective solution for hosting HTML, CSS, and JavaScript-based websites with minimal configuration.
 
 
-Blob service:
+Blob Service:
 Description :
 Blob service is a cloud-based storage service designed for the scalable storage of binary or text data, often in the form of files such as images, videos, documents, and backups. It providessimple and flexible way to store and retrieve large amounts of unstructured data in the cloud. 
 
