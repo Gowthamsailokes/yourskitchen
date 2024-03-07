@@ -12,8 +12,8 @@ Project Details:
 2.Demo Video URL:https://youtu.be/fI8Ew4bev1g?si=j6qDWpZRK9h3K76Y
 3.Github Repository URL: https://github.com/Gowthamsailokes/yourskitchen
 4.Industry :Food Service
-Azure Services Used
-1.Azure Storage Service
+Azure services Used
+1.Azure storage service
 2.Azure Blob Service
 3.Azure Containers
 4.Azure Static Web
